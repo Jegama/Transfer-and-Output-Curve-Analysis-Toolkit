@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+
+.DS_Store
+.ipynb_checkpoints
+.dropbox
+.vscode/
+
+Icon[
+]
+Icon
+
+Icon
+
+
+Thumbs.db
